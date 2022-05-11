@@ -18,8 +18,7 @@ code {
 
 .App {
   text-align: center;
-  margin: 8px;
-  padding: 12px;
+  padding: 8px;
 }
 
 .app-header h1 {
@@ -29,7 +28,7 @@ code {
 .cuckoos-list {
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 8px;
 }
 
