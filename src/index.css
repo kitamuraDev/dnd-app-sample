@@ -38,13 +38,10 @@ code {
   padding: 12px;
   border: 1px solid rgb(186, 186, 186);
   border-radius: 4px;
-
-	transition: .3s;
 }
 
 .cuckoos-list li:hover {
   cursor: pointer;
-	transform: translateY(-8px);
 }
 
 .cuckoos-list li p {
