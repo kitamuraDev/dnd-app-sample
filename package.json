@@ -2,6 +2,7 @@
   "name": "dnd-app-sample",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kitamuraDev.github.io/dnd-app-sample/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
