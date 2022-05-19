@@ -1,20 +1,32 @@
 {
   "files": {
     "main.css": "/dnd-app-sample/static/css/main.b7564cab.chunk.css",
-    "main.js": "/dnd-app-sample/static/js/main.6d848545.chunk.js",
-    "main.js.map": "/dnd-app-sample/static/js/main.6d848545.chunk.js.map",
+    "main.js": "/dnd-app-sample/static/js/main.6557c949.chunk.js",
+    "main.js.map": "/dnd-app-sample/static/js/main.6557c949.chunk.js.map",
     "runtime-main.js": "/dnd-app-sample/static/js/runtime-main.e63eaa3b.js",
     "runtime-main.js.map": "/dnd-app-sample/static/js/runtime-main.e63eaa3b.js.map",
     "static/js/2.0cfbc763.chunk.js": "/dnd-app-sample/static/js/2.0cfbc763.chunk.js",
     "static/js/2.0cfbc763.chunk.js.map": "/dnd-app-sample/static/js/2.0cfbc763.chunk.js.map",
     "index.html": "/dnd-app-sample/index.html",
     "static/css/main.b7564cab.chunk.css.map": "/dnd-app-sample/static/css/main.b7564cab.chunk.css.map",
-    "static/js/2.0cfbc763.chunk.js.LICENSE.txt": "/dnd-app-sample/static/js/2.0cfbc763.chunk.js.LICENSE.txt"
+    "static/js/2.0cfbc763.chunk.js.LICENSE.txt": "/dnd-app-sample/static/js/2.0cfbc763.chunk.js.LICENSE.txt",
+    "static/media/10_unnunn.6e2c2075.png": "/dnd-app-sample/static/media/10_unnunn.6e2c2075.png",
+    "static/media/11_arigatou.141db092.png": "/dnd-app-sample/static/media/11_arigatou.141db092.png",
+    "static/media/12_biribiri.5ec5bfc0.png": "/dnd-app-sample/static/media/12_biribiri.5ec5bfc0.png",
+    "static/media/1_yoshi.cadee784.png": "/dnd-app-sample/static/media/1_yoshi.cadee784.png",
+    "static/media/2_bishi.e278c61b.png": "/dnd-app-sample/static/media/2_bishi.e278c61b.png",
+    "static/media/3_yatta.18be7bfb.png": "/dnd-app-sample/static/media/3_yatta.18be7bfb.png",
+    "static/media/4_okdesu.b6a5d488.png": "/dnd-app-sample/static/media/4_okdesu.b6a5d488.png",
+    "static/media/5_nanntutte.197bf6a6.png": "/dnd-app-sample/static/media/5_nanntutte.197bf6a6.png",
+    "static/media/6_suki.39089241.png": "/dnd-app-sample/static/media/6_suki.39089241.png",
+    "static/media/7_ryoukai.fd23fc60.png": "/dnd-app-sample/static/media/7_ryoukai.fd23fc60.png",
+    "static/media/8_ohayougozaimasu.d321c196.png": "/dnd-app-sample/static/media/8_ohayougozaimasu.d321c196.png",
+    "static/media/9_omoshiro.e5d551e0.png": "/dnd-app-sample/static/media/9_omoshiro.e5d551e0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e63eaa3b.js",
     "static/js/2.0cfbc763.chunk.js",
     "static/css/main.b7564cab.chunk.css",
-    "static/js/main.6d848545.chunk.js"
+    "static/js/main.6557c949.chunk.js"
   ]
 }
